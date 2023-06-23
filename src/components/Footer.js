@@ -6,11 +6,11 @@ function Footer(){
                     <img className = "mx-2" width = "28px" height = "28px" src = '/web.png' alt = 'website' />
                 </a>
 
-                <a href = "https://github.com/k99sharma" target = "_blank">
+                <a href = "https://github.com/chaudharydivya199" target = "_blank">
                     <img className = "mx-2" width = "28px" height = "28px" src = '/github.png' alt = 'github' />
                 </a>
 
-                <a href = "https://www.linkedin.com/in/kalashsharma99/" target = "_blank">
+                <a href = "https://www.linkedin.com/in/chaudharydivya199/" target = "_blank">
                     <img className = "mx-2" width = "28px" height = "28px" src = '/linkedin.png' alt = 'linkedin' />
                 </a>
             </div>
